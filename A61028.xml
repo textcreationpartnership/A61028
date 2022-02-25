@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by a member of the Convention of the States in Scotland</title>
+            <author>Member of the Convention of the States in Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61028</idno>
+            <idno type="STC">Wing S4853</idno>
+            <idno type="STC">ESTC P2646</idno>
+            <idno type="EEBO-CITATION">11910643</idno>
+            <idno type="OCLC">ocm 11910643</idno>
+            <idno type="VID">50812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 514:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by a member of the Convention of the States in Scotland</title>
+                  <author>Member of the Convention of the States in Scotland.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:50812:1"/>
+            <head>A SPEECH MADE BY A Member of the Convention of the States IN SCOTLAND.<label type="milestone">
+                  <seg type="milestoneunit">Numb. </seg>1</label>
+            </head>
+            <p>WE are now called together by his High<g ref="char:EOLhyphen"/>neſs the Prince of <hi>Orange,</hi> to Conſult and Deliberate, what Methods will be moſt proper to ſecure Our <hi>Religion, Laws</hi> and <hi>Liberties,</hi> in order to which, the firſt thing that will fall under our Conſideration, is the ſetling the <hi>Sovereign Power.</hi>
+            </p>
+            <p>I take for granted, that you are fully convinced, that King <hi>James</hi> the 7th, by his many Violations of the Fundamental Laws, by his endeavouring to eſta<g ref="char:EOLhyphen"/>bliſh a <hi>Deſpotick</hi> and <hi>Arbitrary Power,</hi> and intro<g ref="char:EOLhyphen"/>duce <hi>Popery,</hi> (tho he himſelf had confirmed all the Laws that were enacted in Favour of the <hi>Proteſtant Religion,</hi>) has thereby ſubverted the <hi>Conſtitution,</hi> and (that our Miſeries might have no Redreſs from him) has left us in a time, when we needed his Pro<g ref="char:EOLhyphen"/>tection moſt. The Eyes of all <hi>Europe</hi> are upon us, and it is in our Power to make our <hi>Selves,</hi> and our <hi>Poſterity,</hi> either <hi>Happy</hi> or <hi>Miſerable,</hi> by making a choice either to call back the ſame King <hi>James,</hi> and hazard once more all that <hi>Men account Dear,</hi> to his Mercy; or to ſettle the <hi>Government</hi> on ſome other, under whom we may live Quiet and Peaceable Lives, without the perpetual Terror of being ſwallowed up by <hi>Popery</hi> and <hi>Arbitrary Government,</hi> which all good Men hoped were now baniſhed, and yet be<g ref="char:EOLhyphen"/>hold a new <hi>Off-ſpring</hi> is ſprung up, which plead eagerly for both, tho under the miſtaken Names of <hi>Duty</hi> and <hi>Allegiance:</hi> It's ſtrange that any Man can ſo far <hi>Degenerate,</hi> as to prefer <hi>Slavery</hi> to <hi>Liberty,</hi> and that they ſhould be ſo much in Love with <hi>Chains,</hi> that when they were fairly ſhaken off, they ſhould run furiouſly to be <hi>Fettered</hi> again; as if the <hi>Otto<g ref="char:EOLhyphen"/>man</hi> and <hi>French Government</hi> were ſo charming in our Country, that we cannot live without it, tho we have ſo lately groaned under the diſmal Bur<g ref="char:EOLhyphen"/>den of it: And it might have been ſuppoſed that even theſe, who had been <hi>Inſtrumental</hi> in <hi>Enſlaving</hi> their <hi>Fellow Brethren,</hi> and were grown Fat with Sucking the <hi>Nations Blood,</hi> would have taken ano<g ref="char:EOLhyphen"/>ther Method to Reconcile themſelves, than by per<g ref="char:EOLhyphen"/>ſuading us to purchaſe <hi>their</hi> Safety, at ſo vaſt an Ex<g ref="char:EOLhyphen"/>pence as the <hi>Ruin</hi> of more than three Parts of the Nation will neceſſarily amount to.</p>
+            <p>If we do but a little Reflect on the <hi>Motives</hi> which theſe Men (blinded by Self-intereſt) make uſe of, to Delude the Nation into a Security that wanted very little of proving Fatal to it, and compare them with the ſtrong Reaſons, we have to diſſwade us from being ſo impoſed on, they will be found ſo <hi>Weak</hi> and <hi>Impertinent,</hi> that we muſt Judg it next to <hi>Impoſ<g ref="char:EOLhyphen"/>ſibility,</hi> to ſuffer our ſelves to be <hi>twice Deceived.</hi> But if the Experience of our former Miſeries, ſo lately hanging over our heads, (the very thoughts of renewing which, make all good Men to trem<g ref="char:EOLhyphen"/>ble) has not made us <hi>Wiſer,</hi> and be not of <hi>Efficacy</hi> enough, to deter us from venturing another <hi>Ship<g ref="char:EOLhyphen"/>wrack,</hi> and expoſing all again to the <hi>Diſcretion</hi> of <hi>Roman Catholicks:</hi> It's more than probable that GOD has abandoned us, <hi>and given us up to be<g ref="char:EOLhyphen"/>lieve ſtrong Deluſions.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> They will endeavour to perſwade us, that Kings are Eximed from <hi>Puniſhments</hi> here on <hi>Earth,</hi> and nothing they do, can be Quarrelled by their Subjects, which indeed might with ſome Reaſon be urged among the <hi>Turks,</hi> who reſerve nothing from the Power of their <hi>Sultans,</hi> and where it's Death to Diſpute his <hi>Commands,</hi> tho never ſo <hi>Arbitrary</hi> and <hi>Tyrrannical:</hi> But with what Impudence can ſuch <hi>Stuff</hi> be impoſed on us, who never admit our <hi>Kings</hi> to the <hi>Government,</hi> till they Swear to Rule us ac<g ref="char:EOLhyphen"/>cording to <hi>Law,</hi> and no other ways? The <hi>Laws</hi> are the only Security we have for our Lives and Pro<g ref="char:EOLhyphen"/>perties, which if our <hi>Sovereign</hi> ſubvert, <hi>Subjects</hi> cannot be blamed, for making uſe of the ordinary means to preſerve them, and ſince that cannot be done without withdrawing Obedience from ſuch a <hi>Magiſtrate</hi> as goes about to deſtroy them, ſuch an Act cannot properly be ſaid to puniſh him, (becauſe we take nothing from him to which he has a juſt Claim, but do only ſhun the occaſion of making our ſelves miſerable. The <hi>Speculative Doctrine</hi> of <hi>Paſ<g ref="char:EOLhyphen"/>ſive Obedience,</hi> has done too much miſchief among us, and what has befallen the <hi>King</hi> may be juſty im<g ref="char:EOLhyphen"/>puted to it, for the believing that without Oppoſi<g ref="char:EOLhyphen"/>tion he might <hi>do what he pleaſed,</hi> encouraged him to take ſuch meaſures as have drawn all theſe miſ<g ref="char:EOLhyphen"/>fortunes on him.</p>
+            <p>
+               <hi>Secondly,</hi> Others are ſo Fond as to believe, that we may be Secure in calling the King back, provi<g ref="char:EOLhyphen"/>ded they ſo Limit him, that it will not be in his power to hurt us. Theſe men do not conſider, how ſmall a Complement this is to a man of the <hi>Kings Temper,</hi> from an <hi>Abſolute Prince,</hi> as he was pleaſed to fancy himſelf, to content himſelf with the bare Title of a <hi>King;</hi> and how inſupportable the Change muſt be, if from being <hi>Maſter of all,</hi> he muſt force himſelf to comply with a thouſand <hi>Maſters,</hi> and ſee his <hi>Throne</hi> become his <hi>Priſon.</hi> But how airy is it to fancy, that any Reſtrictions of our Contrivance can bind the King? For 1ſt, It's moſt certain they can never be Voluntary, and what is conſtrained and done by Force, is by <hi>Law</hi> declared to be Void and Null; to whoſe Aſſiſtance the <hi>Popes Diſpenſing Power</hi> being joined, would quickly blow off theſe <hi>Sampſon Cords,</hi> and the <hi>Royal Power</hi> would again re<g ref="char:EOLhyphen"/>vive with all its Vigour and Luſtre.</p>
+            <pb facs="tcp:50812:2"/>
+            <p>
+               <hi>Thirdly,</hi> The <hi>King</hi> is of a Religion that has in a famous Council decreed, That no Faith is to be kept with <hi>H reticks,</hi> much leſs with Subjects whom he looks upon as ſo many <hi>Rebels,</hi> and will not miſs to treat them as ſuch, whenever they give him the Op<g ref="char:EOLhyphen"/>portunity of doing it; for his greateſt Admirers do not run to that height of <hi>Idolatry,</hi> to imagine him ſo much <hi>Angel,</hi> as not to take all methods to revenge ſo great an Affront, and ſecure himſelf at our Coſt from ſuch a Treatment for the future; the appre<g ref="char:EOLhyphen"/>henſions of which reſentment will ſtrike ſuch terror in mens minds, that nothing will be capable to di<g ref="char:EOLhyphen"/>vert them from offering up All for an Atonement, and <hi>Popery</hi> and <hi>Slavery</hi> will be thought a good Bar<g ref="char:EOLhyphen"/>gain, if they can but ſave their Lives. Then we may lament our Miſeries, but it will not be in our power to help them; for a <hi>Prince of Orange</hi> is not always ready to reſcue us, with ſuch vaſt Expence and ſo great hazard to his Perſon; and if our Madneſs hurry us ſo far, we deſerve rather his pity than his reſentment.</p>
+            <p>
+               <hi>Fourthly,</hi> What Arguments has the King given ſince he left us, to perſuade us he will be more faith<g ref="char:EOLhyphen"/>ful in obſerving his Words and Oaths, than hitherto he has been? Does he not in a Letter lately printed here, expreſly ſay he has ruled ſo, as to give no oc<g ref="char:EOLhyphen"/>caſion of complaint to any of his Subjects? Is not the ſame Letter ſigned by one who ſacrificed both <hi>Conſcience</hi> and <hi>Honour</hi> to <hi>Intereſt,</hi> whoſe pernicious and headſtrong <hi>Counſels</hi> has poſted him to his Ru<g ref="char:EOLhyphen"/>ine, tho' all that has been done cannot make Him ſenſible of it? Sure the reducing <hi>Hereticks</hi> to the See of <hi>Rome</hi> is not leſs Meritorious than before, nor King <hi>James</hi> the Seventh, by breathing the <hi>French Air,</hi> become leſs <hi>Bigot:</hi> It were a Dream to fancy it. For ſo long as the <hi>Vatican</hi> thunders Excommunica<g ref="char:EOLhyphen"/>tions againſt all ſuch as do not uſe their utmoſt en<g ref="char:EOLhyphen"/>deavours to extirpate <hi>Hereſie,</hi> a <hi>Roman Catholick</hi> muſt have no Religion at all, if they be not terri<g ref="char:EOLhyphen"/>ble to him.</p>
+            <p>The <hi>fourth</hi> Argument they made uſe of to per<g ref="char:EOLhyphen"/>ſuade ſuch as are and ſhall be choſen Members of the <hi>Convention,</hi> That it's their Intereſt to call back the King, is, That the Peace and Happineſs of the Nation cannot be otherwiſe ſecured, nor Factions or Diviſions extinguiſhed. But what Factions do you obſerve, but ſuch as they themſelves do foment, on purpoſe to diſturb our Harmony? all which would immediately die, if the Government were once ſetled on thoſe who deſerved it beſt: for then, if theſe Fops continued ſtill fond of <hi>Popery</hi> and <hi>Ty<g ref="char:EOLhyphen"/>ranny,</hi> they would be chaſtiſed, as Diſturbers of the Publick Peace. The Argument may very juſtly be retorted; for if the King return, we will burſt out into a flame; and <hi>England,</hi> which has already de<g ref="char:EOLhyphen"/>clared, will quickly be on our Top, an Enemy too Potent and too Numerous for us, tho' we were all united; beſides the Danger to which ſuch a Proce<g ref="char:EOLhyphen"/>dure will expoſe us, we cut off all hopes of an Uni<g ref="char:EOLhyphen"/>on with that Nation, and thereby deprive our ſelves of an unſpeakable Advantage, which would redound to all ſorts of People, and would be the only means to ſupport an impoveriſh'd and ſinking Nation. Nei<g ref="char:EOLhyphen"/>ther is this the only Inconveniency, tho' it be a very Great One; for if we ſtate our ſelves in oppoſition to <hi>England,</hi> by <hi>Reſtoring</hi> the <hi>King</hi> whom they <hi>Re<g ref="char:EOLhyphen"/>jected,</hi> it is not to be doubted but he will uſe his ut<g ref="char:EOLhyphen"/>moſt endeavour to recover that Kingdom, the loſs of which is ſo conſiderable. Now, ſeeing it were vain to ſuppoſe that the <hi>Scots</hi> alone were able to ſe<g ref="char:EOLhyphen"/>cond his deſires, he muſt needs have recourſe to the <hi>French</hi> and <hi>Iriſh,</hi> whoſe Religion will procure a more intire Confidence than His Majeſty can repoſe in any others. Theſe therefore muſt be received in<g ref="char:EOLhyphen"/>to our Boſom; and becauſe <hi>Scotland</hi> is the moſt proper place for Invading <hi>England,</hi> it muſt be the Scence of all the Blood and Confuſion that this me<g ref="char:EOLhyphen"/>lancholly thought gives us a Proſpect of. And what treatment can ſuch <hi>Sham-Proteſtants</hi> expect from theſe, who otherwiſe would have become their Friends and Allies? And what Figure will they pre<g ref="char:EOLhyphen"/>tend to make, when they ſet up for a ſeparate In<g ref="char:EOLhyphen"/>tereſt from all the <hi>Confederate Proteſtants</hi> in the World beſides?</p>
+            <p>The happy Succeſs the PRINCE His Enterprize has met with, has made a conſiderable Alteration in the Affairs of <hi>Europe;</hi> for that great Enemy of the Proteſtants, and even of Chriſtianity it ſelf, who had propos'd nothing leſs to himſelf than an Univerſal <hi>Monarchy,</hi> whom the Stricteſt <hi>Leagues</hi> and <hi>Contracts</hi> cannot bind, but without regard to GOD or Man, threatens all his <hi>Neighbours</hi> with utter Deſtruction; by the <hi>Scene's</hi> being changed among us, is ſo far hum<g ref="char:EOLhyphen"/>bled, that from a <hi>Proud</hi> and <hi>Inſulting Enemy,</hi> he is become a Supplicant for Peace; well foreſeeing that if <hi>Britain</hi> join with thoſe other <hi>Princes,</hi> whom his Inſolence, Cruelty, and Avarice, has ſo juſtly Armed againſt him, his Ruine is <hi>Inevitable</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that if we have not <hi>Soul</hi> enough to enjoy this great <hi>Bleſſing,</hi> and can eaſily part with the <hi>Glory</hi> of being once more the <hi>Arbiters</hi> of <hi>Europe,</hi> let us at leaſt have have ſo much <hi>Chriſtian Love</hi> and <hi>Charity</hi> for the Neighbouring <hi>Na<g ref="char:EOLhyphen"/>tions</hi> of our own Perſwaſion, as not to expoſe them to a neceſſary <hi>Participation</hi> of theſe <hi>Plagues,</hi> which our <hi>Common Enemies</hi> are preparing for us, and which will certainly <hi>Terminate</hi> in all our Deſtructions.</p>
+            <p>
+               <hi>Laſtly,</hi> I beſeech you to conſider what <hi>Perſons</hi> they are who would <hi>Inſtill</hi> this <hi>Poyſon</hi> in you, and you will find them of three kinds. Firſt, thoſe who <hi>Poſtponing the Common Good</hi> of the <hi>Nation</hi> are wholly acted by <hi>Self-Intereſt,</hi> conſidering that in a <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> where <hi>Juſtice</hi> and <hi>Mercy</hi> equally Flouriſh, <hi>Vir<g ref="char:EOLhyphen"/>tue</hi> and <hi>Merit,</hi> not <hi>Villany,</hi> will be rewarded. Se<g ref="char:EOLhyphen"/>condly, They who are ignorant of the Nature of Government and were never at the pains to in<g ref="char:EOLhyphen"/>form themſelves what Meaſures the Law of Nature and Nations have ſet to mens Obedience, but are angry at every thing that thwarts their wild No<g ref="char:EOLhyphen"/>tions, and will admit of nothing, tho never ſo rea<g ref="char:EOLhyphen"/>ſonable and convincing, if their dull Capacities cannot reach it. The third ſort are ſuch as have been inſtrumental in the enſlaving their Country, and are a<g ref="char:EOLhyphen"/>fraid if they be called to an Account, they may be brought to ſuffer <hi>Condign Puniſhment;</hi> if ſuch can<g ref="char:EOLhyphen"/>not ſucceed in their Deſign, they at leaſt hope to be overlookt in a <hi>General Confuſion,</hi> ſo they have no<g ref="char:EOLhyphen"/>thing uneſſayed that may tend to their own ſafety; and if <hi>Heaven</hi> fail them, they ſummon <hi>Hell</hi> to their Aid; not that <hi>Love</hi> to their <hi>Prince,</hi> but meer <hi>Am<g ref="char:EOLhyphen"/>bition</hi> and <hi>Intereſt,</hi> drives theſe <hi>Criminals</hi> to ſuch At<g ref="char:EOLhyphen"/>tempts, neither are they much to blame, if they are at ſuch pains to ſow Diviſions among us; But no Perſon of <hi>Wit</hi> and <hi>Judgment,</hi> nor any Good Man that is truly <hi>Proteſtant,</hi> and minds the good of his <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> will ſuffer himſelf to be ſo groſly impoſed on by ſuch <hi>Firebrands,</hi> who would build their Future <hi>Ima<g ref="char:EOLhyphen"/>ginary Greatneſs</hi> on the Ruine of <hi>Our Religion, Laws,</hi> and <hi>Country.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Janeway,</hi> in <hi>Queens head-Alley</hi> in <hi>Pater-Noſter-Row.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
